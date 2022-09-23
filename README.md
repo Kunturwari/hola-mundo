@@ -1,4 +1,4 @@
-# hola-mundo
-Mi primer repositorio de prueba
+# Hello World
+Mi primer repositorio
 
 Autor: Alexander Pz Cm
